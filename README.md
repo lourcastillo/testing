@@ -13,7 +13,7 @@ Website & Apps
 * [Monitoring audience of Mozpyweek](https://tagboard.com/mozpyweek/183073)
 * [Storify MozPYWeek](https://storify.com/lourcastle/mozpy-week-2014)
 * [Eventbrite Mozilla Paraguay](http://www.eventbrite.es/o/mozilla-paraguay-6665493113)
-*The MozPY Week aims in reach all the Paraguayan population, give important knowledge about the resources, tools and open and free to develop technologies, entrepreneurship, innovation and research that broadly favor the stakeholders.
+ The MozPY Week aims in reach all the Paraguayan population, give important knowledge about the resources, tools and open and free to develop technologies, entrepreneurship, innovation and research that broadly favor the stakeholders.
 
 Train stakeholders with the resources that Mozilla offers and open repositories and technological tools, to encourage the development and future income Firefox OS in Paraguay.
 
